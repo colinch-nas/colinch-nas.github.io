@@ -4,32 +4,32 @@ permalink: /about/
 ---
 
 
-🌐 **Welcome to Colin.js: Where JavaScript Comes to Life!**
+**Flutter IoT 개발 블로그에 오신 것을 환영합니다!**
 
 ----------
 
-Hello, aficionados of the web and JavaScript enthusiasts!
+안녕하세요, Flutter와 IoT에 관심 있는 개발자 여러분!
 
-In the vast universe of coding, there’s one constant that keeps evolving, yet remains at the heart of web innovation: JavaScript. Enter the domain of **Colin.js** - a sanctuary dedicated to dissecting, understanding, and celebrating everything JavaScript.
+이 블로그는 **Flutter로 실제 IoT 앱을 만들며 겪은 경험과 노하우**를 기록하는 공간입니다.
 
-**1️⃣ Deep Dives into JavaScript Realms**
+**1. Flutter × IoT 실전 개발**
 
--   At Colin.js, we delve beyond the surface of JavaScript. From its core principles to the newest ECMAScript updates, we break it down, offering insights that are both profound and actionable.
+-   BLE(블루투스), MQTT, AWS IoT Core, WiFi 프로비저닝 등 IoT와 Flutter를 연결하는 실무 구현을 다룹니다. 튜토리얼이 아닌 실제 프로덕션 코드 기반의 내용입니다.
 
-**2️⃣ Evidence-Based Examinations**
+**2. 클린 아키텍처와 상태관리**
 
--   Our commitment isn’t just to coding, but to rigorous research. Every piece of content on Colin.js is grounded in solid exploration, ensuring you’re getting the most accurate, relevant, and impactful JavaScript knowledge.
+-   GetX, Clean Architecture, Repository 패턴 등 대규모 Flutter 프로젝트를 유지보수 가능하게 만드는 설계 원칙을 다룹니다.
 
-**3️⃣ A Hub for JS Innovators**
+**3. 실무 트러블슈팅**
 
--   Join a thriving community that's as passionate about JavaScript as you are. Engage in enlightening discussions, share groundbreaking ideas, and challenge the conventional with fellow JavaScript maestros.
+-   BluFi 프로토콜 직접 구현, SigV4 인증, 플랫폼별 BLE 동작 차이 등 실제로 부딪혔던 문제와 해결 과정을 솔직하게 기록합니다.
 
-**4️⃣ Staying Ahead of the Curve**
+**4. 배포부터 운영까지**
 
--   The world of JavaScript is fast-paced. Stay updated with the latest frameworks, libraries, and best practices. Whether it's React, Vue, Node, or the next big thing, if it’s shaking the JS world, we’re on it.
-
-**Ready to elevate your JavaScript game?** Colin.js is your gateway to mastering the intricacies of this dynamic language. Dive deep, experiment, and let the power of JavaScript captivate you!
+-   Firebase(FCM, Crashlytics, Remote Config), 다국어 지원, 다크모드, 앱스토어 배포까지 앱의 전체 라이프사이클을 다룹니다.
 
 ----------
 
-Your adventure in the mesmerizing world of JavaScript starts at **Colin.js**. We’re not just another blog; we’re your next step towards JavaScript excellence. Join the journey! 🚀
+이 블로그는 **Flutter로 IoT 스마트홈 앱을 처음부터 끝까지 만드는 50일 시리즈**를 중심으로 구성되어 있습니다.
+
+총 50편의 포스트를 순서대로 읽으면 Flutter IoT 앱 개발의 전체 흐름을 파악할 수 있도록 설계했습니다. 🚀
