@@ -3,14 +3,14 @@
 # # # # # # # # # # # # #
 
 # Basic
-name:               "Colin Flutter"
+name:               "Colinch AI"
 
 author:
   facebook:         your-id
   youtubeUser:      your-id
   youtubeChannel:   your-id
   twitter:          your-id
-  github:           your-id
+  github:           colinch-ai
   stackoverflow:    your-id
   quora:            your-id
   linkedin:         your-id
@@ -24,18 +24,18 @@ author:
 
 copyright:
   year:             2026
-  name:             Colin Flutter
+  name:             Colinch AI
 
 # Google-analytics
 google-analytics:
-  id:               "colin-ch-flutter"
+  id:               "colinch-ai"
 
 # Disqus
 disqus:
-  id:               "colin-ch-flutter"
+  id:               "colinch-ai"
 
 # URL
-url:                "https://colin-ch-flutter.github.io" # the base hostname & protocol for your site
+url:                "https://colinch-ai.github.io" # the base hostname & protocol for your site
 # url:                "http://localhost:4000" # use this url when you develop
 baseurl:            "/" # the subpath of your site, e.g. /blog
 
@@ -62,7 +62,7 @@ nav:
   - name:           "Tags"
     url:            "/tags"
   - name:           "Github"
-    url:            "https://colin-ch-flutter.github.io"
+    url:            "https://colinch-ai.github.io"
 
 # Sass
 sass:
