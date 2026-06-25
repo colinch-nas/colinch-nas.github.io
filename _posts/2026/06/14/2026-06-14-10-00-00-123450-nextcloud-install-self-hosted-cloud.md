@@ -7,9 +7,6 @@ tags: [Nextcloud, 자체호스팅, Docker, 홈서버]
 comments: true
 share: true
 ---
-
-# Nextcloud 설치 — 구글 드라이브 대신 내 서버에 클라우드 만들기
-
 ![Nextcloud 자체 호스팅 클라우드 서버](https://images.unsplash.com/photo-1558494949-ef010cbdcc31?w=800&q=80)
 
 구글 드라이브 15GB 무료가 언제 꽉 찰지 모르고, 요금제 올리면 한 달에 몇 달러씩 나간다. NAS가 있으면 Nextcloud로 사실상 무제한 클라우드를 집에 만들 수 있다. 파일 동기화, 캘린더, 연락처, 사진 백업까지 된다.

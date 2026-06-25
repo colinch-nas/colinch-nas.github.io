@@ -7,9 +7,6 @@ tags: [Synology, Jellyfin, 미디어서버, Docker]
 comments: true
 share: true
 ---
-
-# Synology NAS에 Jellyfin 설치하기 — Plex 없이 미디어 서버 구축
-
 ![NAS 미디어 서버 Jellyfin](https://images.unsplash.com/photo-1603732351-97311a4c36c6?w=800&q=80)
 
 Plex는 무료 버전에 제한이 많고, Emby는 유료다. Jellyfin은 완전 무료 오픈소스인데 기능은 Plex와 크게 차이 없다. Synology NAS에 Docker로 5분이면 올라간다.

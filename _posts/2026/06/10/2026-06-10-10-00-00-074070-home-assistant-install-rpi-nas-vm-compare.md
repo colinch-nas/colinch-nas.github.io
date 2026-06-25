@@ -7,9 +7,6 @@ tags: [HomeAssistant, 스마트홈, 홈오토메이션, Proxmox]
 comments: true
 share: true
 ---
-
-# Home Assistant 설치 방법 비교 2026 — Raspberry Pi vs Synology NAS vs VM
-
 ![Home Assistant 스마트홈 설정](https://images.unsplash.com/photo-1558618047-3c8c76ca7d67?w=800&q=80)
 
 Home Assistant는 스마트홈 허브다. 삼성 SmartThings, 애플 HomeKit, 구글 홈처럼 클라우드에 종속되지 않고 집 안에서 로컬로 모든 기기를 통합 관리한다. 설치 방법은 여러 가지인데, 처음 접하면 어떤 걸 써야 할지 헷갈린다.

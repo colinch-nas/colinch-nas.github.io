@@ -7,9 +7,6 @@ tags: [HomeAssistant, 스마트홈, 홈오토메이션]
 comments: true
 share: true
 ---
-
-# Home Assistant 대시보드 구성 — Lovelace UI로 내 집 현황 한눈에 보기
-
 ![Home Assistant Lovelace 대시보드](https://images.unsplash.com/photo-1558618047-3c8c76ca7d67?w=800&q=80)
 
 Home Assistant를 설치하고 기기를 연결했으면 이제 대시보드를 꾸밀 차례다. 기본 UI만 써도 되는데, HACS(Home Assistant Community Store)를 통해 커스텀 카드를 설치하면 훨씬 보기 좋게 꾸밀 수 있다.

@@ -7,9 +7,6 @@ tags: [Synology, 백업전략, NAS보안, DSM]
 comments: true
 share: true
 ---
-
-# Synology NAS 랜섬웨어 대비 백업 전략 — 3-2-1 규칙 실제 구현
-
 ![NAS 백업 전략 데이터 보안](https://images.unsplash.com/photo-1558618047-3c8c76ca7d67?w=800&q=80)
 
 NAS에 데이터를 몰아 넣으면서 백업을 안 하는 사람이 생각보다 많다. RAID는 백업이 아니다. RAID는 하드 고장에 대비할 뿐이고, 랜섬웨어나 실수로 삭제한 파일은 RAID도 못 막는다.

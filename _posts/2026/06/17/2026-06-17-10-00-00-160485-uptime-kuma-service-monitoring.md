@@ -7,9 +7,6 @@ tags: [UptimeKuma, 자체호스팅, 홈서버, 모니터링]
 comments: true
 share: true
 ---
-
-# Uptime Kuma로 내 서비스들 모니터링하기 — 다운타임 알림 설정
-
 ![Uptime Kuma 서비스 모니터링 대시보드](https://images.unsplash.com/photo-1558494949-ef010cbdcc31?w=800&q=80)
 
 Nextcloud, Vaultwarden, Immich가 다 돌아가고 있는데, 이게 실제로 살아 있는지 어떻게 알 수 있을까. 서버가 내려갔을 때 내가 직접 접속하려다 알게 되면 이미 늦다. Uptime Kuma는 각 서비스에 주기적으로 핑을 보내서 응답이 없으면 알림을 보내준다. 설치 5분이면 된다.

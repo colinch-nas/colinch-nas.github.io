@@ -7,9 +7,6 @@ tags: [CloudflareTunnel, NAS보안, 홈서버, 자체호스팅]
 comments: true
 share: true
 ---
-
-# Cloudflare Tunnel — 포트 포워딩 없이 집 서버 서비스 외부 공개하기
-
 ![Cloudflare Tunnel 홈서버 외부 공개](https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800&q=80)
 
 포트 포워딩을 열면 보안 위험이 생기고, CGNAT 환경이면 아예 불가능하다. Cloudflare Tunnel은 집 서버에서 Cloudflare로 아웃바운드 연결을 맺어두고, 외부 요청을 Cloudflare가 이 터널로 전달하는 방식이다. 집 서버에서 어떤 인바운드 포트도 열 필요가 없다.

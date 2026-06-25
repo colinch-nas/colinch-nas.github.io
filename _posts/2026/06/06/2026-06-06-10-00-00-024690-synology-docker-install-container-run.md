@@ -7,9 +7,6 @@ tags: [Synology, Docker, DSM, 홈서버]
 comments: true
 share: true
 ---
-
-# Synology Docker 설치 및 컨테이너 운영 — Container Manager 실전 가이드
-
 ![Synology NAS Docker 컨테이너 운영](https://images.unsplash.com/photo-1605745341112-85968b19335b?w=800&q=80)
 
 Synology NAS에 Docker를 올리면 NAS 용도가 완전히 달라진다. 단순 파일 서버에서 Jellyfin, Nextcloud, Vaultwarden 같은 서비스를 직접 돌리는 홈서버로 바뀐다. DSM 7.2부터는 Docker 앱 이름이 **Container Manager**로 바뀌었다.

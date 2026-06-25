@@ -7,9 +7,6 @@ tags: [Immich, 자체호스팅, Docker, 미디어서버]
 comments: true
 share: true
 ---
-
-# Immich 설치 — 구글 포토 대체 자체 호스팅 사진 관리 서버
-
 ![Immich 사진 관리 서버 자체 호스팅](https://images.unsplash.com/photo-1603732351-97311a4c36c6?w=800&q=80)
 
 구글 포토가 2021년부터 유료로 전환된 이후 대안을 찾는 사람이 많아졌다. Immich는 구글 포토와 UI가 비슷하고 얼굴 인식, 장소 기반 지도, 타임라인 뷰까지 지원한다. 완성도가 높은 편인데 아직 개발 중이라서 업데이트가 잦다.

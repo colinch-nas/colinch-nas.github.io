@@ -7,9 +7,6 @@ tags: [Synology, DSM, NAS설정, 보안]
 comments: true
 share: true
 ---
-
-# Synology NAS 처음 설정 — DSM 7.2 초기 보안 설정 완전 정복
-
 ![Synology NAS 서버 보안 설정](https://images.unsplash.com/photo-1558494949-ef010cbdcc31?w=800&q=80)
 
 NAS 박스 개봉하고 케이블 꽂으면 5분 안에 DSM 접속까지 된다. 근데 그 상태로 외부 접속 열었다가 랜섬웨어 맞은 사람이 한둘이 아니다. 초기 보안 설정은 귀찮아도 반드시 해야 한다.

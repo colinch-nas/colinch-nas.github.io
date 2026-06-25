@@ -7,9 +7,6 @@ tags: [QNAP, 백업전략, NAS설정]
 comments: true
 share: true
 ---
-
-# QNAP NAS 백업 전략 — 3-2-1 규칙으로 데이터 손실 없이 관리하는 법
-
 ![QNAP NAS 백업 전략 데이터 관리](https://images.unsplash.com/photo-1603732351-97311a4c36c6?w=800&q=80)
 
 QNAP을 쓰는 사람들은 대체로 Synology보다 하드웨어에서 한 수 위를 노리는 경우가 많다. 성능은 좋은데 백업 설정이 Synology보다 조금 복잡하다. HBS 3(Hybrid Backup Sync)라는 앱으로 백업을 관리하는데, 처음 보면 옵션이 너무 많아서 어디서 시작해야 할지 헷갈린다.

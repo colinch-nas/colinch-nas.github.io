@@ -7,9 +7,6 @@ tags: [NAS보안, Synology, 백업전략, DSM]
 comments: true
 share: true
 ---
-
-# NAS 랜섬웨어 대비 보안 설정 체크리스트 2026 — Synology 기준
-
 ![NAS 랜섬웨어 보안 설정 체크리스트](https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800&q=80)
 
 NAS 랜섬웨어 피해는 꾸준히 있다. 2021년 QNAP, 2022년 Synology, 2024년에도 사례가 나왔다. 대부분 기본 보안 설정을 안 했거나 취약한 비밀번호, 오래된 펌웨어가 원인이었다. 이 체크리스트는 이 시리즈에서 다뤘던 내용을 항목별로 정리한 거다.

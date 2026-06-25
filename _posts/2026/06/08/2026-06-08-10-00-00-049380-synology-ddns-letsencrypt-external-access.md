@@ -7,9 +7,6 @@ tags: [Synology, DDNS, NAS설정, 보안]
 comments: true
 share: true
 ---
-
-# Synology NAS 외부 접속 설정 — DDNS와 Let's Encrypt 인증서로 HTTPS 연결
-
 ![NAS DDNS HTTPS 외부 접속 설정](https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800&q=80)
 
 집 밖에서 NAS에 접속하려면 두 가지가 필요하다. 변하는 공인 IP를 도메인으로 고정하는 DDNS, 그리고 HTTP가 아닌 HTTPS로 암호화하는 SSL 인증서. 둘 다 Synology DSM에서 공짜로 해결된다.

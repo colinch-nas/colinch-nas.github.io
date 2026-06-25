@@ -7,9 +7,6 @@ tags: [TrueNAS, 홈서버, 홈랩, NAS설정]
 comments: true
 share: true
 ---
-
-# TrueNAS SCALE 설치부터 SMB 공유까지 — ZFS 기반 무료 NAS OS 세팅
-
 ![TrueNAS SCALE ZFS NAS 서버](https://images.unsplash.com/photo-1558494949-ef010cbdcc31?w=800&q=80)
 
 Synology NAS 살 돈은 없는데 집에 남는 PC가 있다면 TrueNAS SCALE로 그 PC를 NAS로 만들 수 있다. 소프트웨어는 완전 무료고, ZFS 파일 시스템을 써서 데이터 무결성 측면에서는 Synology보다 앞선다. 단, 설정이 Synology보다 복잡하다.

@@ -7,9 +7,6 @@ tags: [NginxProxyManager, NAS보안, 자체호스팅, DDNS]
 comments: true
 share: true
 ---
-
-# Nginx Proxy Manager로 도메인·HTTPS 한 번에 관리하기
-
 ![Nginx Proxy Manager 리버스 프록시 설정](https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800&q=80)
 
 홈서버에 서비스가 여러 개 늘어나면 포트 번호로 관리하는 게 한계에 온다. `http://192.168.1.100:8096`(Jellyfin), `http://192.168.1.100:8080`(Nextcloud) 이런 식으로 외우기도 힘들고, 각각 HTTPS 설정하는 것도 번거롭다. Nginx Proxy Manager는 웹 UI로 리버스 프록시와 SSL 인증서를 한 번에 관리한다.

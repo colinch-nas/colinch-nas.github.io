@@ -7,9 +7,6 @@ tags: [HomeAssistant, 홈오토메이션, 스마트홈, 에너지모니터링]
 comments: true
 share: true
 ---
-
-# Home Assistant 조명·전력 자동화 — 스마트 플러그와 모션 센서로 자동화 만들기
-
 ![Home Assistant 스마트홈 자동화](https://images.unsplash.com/photo-1558618047-3c8c76ca7d67?w=800&q=80)
 
 Home Assistant의 진짜 재미는 자동화다. 기기를 앱으로 켜고 끄는 건 그냥 리모컨 하나 추가된 거고, 자동화를 만들면 집이 알아서 돌아간다. 모션 감지해서 조명 켜고, 외출하면 플러그 끄고, 자기 전에 에어컨 예약하는 식이다.

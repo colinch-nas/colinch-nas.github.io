@@ -7,9 +7,6 @@ tags: [Vaultwarden, 자체호스팅, 보안, Docker]
 comments: true
 share: true
 ---
-
-# Vaultwarden으로 비밀번호 관리 서버 직접 운영하기 — Bitwarden 자체 호스팅
-
 ![Vaultwarden 비밀번호 관리 보안 서버](https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800&q=80)
 
 1Password는 월 구독이 필요하고, LastPass는 작년에 또 해킹 당했다. Bitwarden은 무료인데 셀프호스팅 서버 요구사항이 무거워서 NAS에서 돌리기 부담스럽다. Vaultwarden은 Bitwarden 프로토콜과 완전 호환되면서 메모리 10MB 남짓 쓰는 경량 서버다.

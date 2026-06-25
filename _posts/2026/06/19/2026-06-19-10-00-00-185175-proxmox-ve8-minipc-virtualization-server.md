@@ -7,9 +7,6 @@ tags: [Proxmox, 홈서버, 홈랩, 가상화]
 comments: true
 share: true
 ---
-
-# Proxmox VE 8 설치 — 미니PC로 가상화 홈서버 만들기
-
 ![Proxmox 가상화 홈서버 미니PC](https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80)
 
 미니PC 하나로 여러 서버를 돌리고 싶을 때 Proxmox가 답이다. Debian 기반 하이퍼바이저인데 KVM 가상화와 LXC 컨테이너를 모두 지원한다. 웹 UI가 있어서 VM 생성이나 스냅샷을 마우스로 할 수 있다.

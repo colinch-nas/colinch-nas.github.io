@@ -7,9 +7,6 @@ tags: [Tailscale, VPN, NAS보안, 홈서버]
 comments: true
 share: true
 ---
-
-# Tailscale VPN으로 어디서든 집 서버 안전하게 접속하기
-
 ![Tailscale VPN 홈서버 원격 접속](https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800&q=80)
 
 포트 포워딩으로 외부 접속 열면 편한데, 열린 포트가 많을수록 공격 표면이 넓어진다. Tailscale은 WireGuard 기반 P2P VPN인데, 포트 포워딩을 전혀 안 하고 집 서버에 접속할 수 있다. 설치도 간단해서 기술 지식 없는 가족도 쓸 수 있다.
