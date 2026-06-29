@@ -257,5 +257,5 @@ NAS설정, 홈서버구축, 미디어서버, 백업전략, 에너지모니터링
 | 3 | Immich 사진 관리 서버 | 미작성 |
 | 4 | Uptime Kuma 모니터링 | 미작성 |
 
-마지막 포스트: `_posts/2026/06/26/2026-06-26-12-00-00-283935-synology-nas-jellyfin-docker-media-server.md`
-다음 일련번호: `296280`
+마지막 포스트: `_posts/2026/06/29/2026-06-29-12-00-00-395040-paperless-ngx-docker-install-nas-document-management.md`
+다음 일련번호: `407385`
