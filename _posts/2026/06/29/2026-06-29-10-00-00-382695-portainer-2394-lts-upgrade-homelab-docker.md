@@ -8,8 +8,6 @@ comments: true
 share: true
 ---
 
-# Portainer 2.39.4 LTS 업그레이드 — CVE 패치 포함 홈랩 Docker 관리 서버 최신화
-
 ![홈랩 서버 Docker 컨테이너 관리 화면](https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800&q=80)
 
 Portainer CE 2.39.4 LTS가 2026년 6월 25일에 출시됐다. CVE 보안 취약점이 패치된 버전이라, 홈서버에서 Docker를 운영 중이라면 그냥 넘어가면 안 된다. Docker 이미지 교체로 5분이면 끝난다.

@@ -8,8 +8,6 @@ comments: true
 share: true
 ---
 
-# Home Assistant 2026.6 — 대시보드 카드 피커 전면 개편과 달라진 것들
-
 ![Home Assistant 스마트홈 자동화 대시보드](https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800&q=80)
 
 Home Assistant 2026.6이 6월 3일 출시됐다. 이번 릴리즈 테마는 "Pick a card, any card" — 이름 그대로 대시보드 카드 추가 UI가 뿌리부터 바뀌었다. 기존 사용자라면 업데이트 직후 카드 추가 버튼을 눌렀다가 "이게 뭐야" 할 수 있다.

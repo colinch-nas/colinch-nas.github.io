@@ -8,8 +8,6 @@ comments: true
 share: true
 ---
 
-# Synology DSM 7.4 업그레이드 — DSM Agent AI·HDD 중복제거·RBAC 신기능 정리
-
 ![Synology NAS 서버 데이터 관리 이미지](https://images.unsplash.com/photo-1558494949299-3ad8a4f4c2ed?w=800&q=80)
 
 DSM 7.4가 2026년 6월 16일 공식 출시됐다. 처음엔 그냥 마이너 업데이트겠지 싶었는데, 릴리즈 노트를 읽어보니 생각보다 내용이 많았다. AI 관리 어시스턴트, HDD용 중복제거·압축, RBAC 역할 기반 권한 체계 — 단순 버그픽스 수준이 아니라 운영 방식에 영향을 주는 변경들이다.

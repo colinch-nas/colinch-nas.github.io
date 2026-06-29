@@ -8,8 +8,6 @@ comments: true
 share: true
 ---
 
-# ZimaCube 2 완전 정복 — $799짜리 NAS인데 로컬 AI까지 돌아간다
-
 ![ZimaCube 2 홈서버 NAS 데스크탑 서버](https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800&q=80)
 
 ZimaCube 2는 Synology나 QNAP과 결정적으로 다른 게 하나 있다. PCIe 슬롯이 두 개 열려 있다. GPU를 꽂으면 된다. 로컬 LLM을 돌리거나 미디어 트랜스코딩 전용 카드를 달거나, 10GbE 카드를 추가하거나 — NAS인데 홈랩처럼 확장된다. 2026년 4월 IceWhale Technology가 출시했고, 지금 해외에서 리뷰가 쏟아지고 있는 제품이다.

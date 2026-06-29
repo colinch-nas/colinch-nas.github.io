@@ -8,8 +8,6 @@ comments: true
 share: true
 ---
 
-# Synology NAS 처음 설정 — DSM 7.2 기준 초기 설정과 보안 완전 정리
-
 ![Synology NAS 설정 화면](https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800&q=80)
 
 NAS를 처음 켜면 설정이 생각보다 많다. DSM 설치하고 관리자 계정 만들고 끝이 아니다. 기본 설정 그대로 인터넷에 연결된 NAS는 외부 공격에 열려 있는 거나 마찬가지다. 실제로 Synology NAS를 대상으로 한 무차별 대입 공격은 꾸준히 발생한다. 이 글에서는 처음 개봉부터 기본 보안 설정까지 DSM 7.2.2 기준으로 정리한다.

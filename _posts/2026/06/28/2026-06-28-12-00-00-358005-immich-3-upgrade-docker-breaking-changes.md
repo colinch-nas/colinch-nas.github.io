@@ -8,8 +8,6 @@ comments: true
 share: true
 ---
 
-# Immich 3.0 업그레이드 가이드 — Docker 설치 기준 Breaking Changes와 새 기능 정리
-
 ![Immich 사진 관리 서버 업그레이드](https://images.unsplash.com/photo-1516259762381-22954d7d3ad2?w=800&q=80)
 
 Immich 3.0이 RC(Release Candidate) 단계에 진입했다. 기존 v2.x에서 업그레이드하기 전에 반드시 알아야 할 Breaking Changes가 있고, 업그레이드 방법도 평소와 약간 다르다. 특히 제3자 도구로 Immich API를 연동해서 쓰고 있다면 업그레이드 전에 마이그레이션 노트를 반드시 확인해야 한다.

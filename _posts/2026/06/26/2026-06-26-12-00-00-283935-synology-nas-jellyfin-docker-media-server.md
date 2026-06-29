@@ -8,8 +8,6 @@ comments: true
 share: true
 ---
 
-# Synology NAS Jellyfin 설치 — Docker로 집에서 미디어 서버 구축
-
 ![홈 미디어 서버 스트리밍 TV](https://images.unsplash.com/photo-1593784991095-a205069470b6?w=800&q=80)
 
 Synology DS923+에 Jellyfin을 Docker로 올리면 집 안 어디서든, 외부에서도 넷플릭스처럼 영상을 스트리밍할 수 있다. Plex처럼 계정 연동 없이 완전 로컬·자체 호스팅으로 돌아가고, 라이선스 비용도 없다.

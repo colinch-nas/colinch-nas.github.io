@@ -8,8 +8,6 @@ comments: true
 share: true
 ---
 
-# Home Assistant 에너지 모니터링 — 집 전력 사용량 실시간 대시보드 만들기
-
 ![가정용 에너지 모니터링 대시보드 화면](https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800&q=80)
 
 Shelly EM 하나를 분전반에 달고 Home Assistant 에너지 탭을 열면, 지금 집에서 얼마나 쓰고 있는지 kWh와 요금으로 실시간 확인이 된다. 전기요금 고지서 보고 "이게 왜 이렇게 나왔지" 했던 의문이 하루 만에 풀렸다.

@@ -8,8 +8,6 @@ comments: true
 share: true
 ---
 
-# Home Assistant Matter 업그레이드 — matter.js 전환으로 카메라·도어벨 드디어 됩니다
-
 ![Home Assistant 스마트홈 기기 연결 허브 구성](https://images.unsplash.com/photo-1558618047-3c8c76ca7d13?w=800&q=80)
 
 4개월 베타 끝에 Home Assistant가 Matter 서버를 **matter.js** 기반으로 공식 전환했다(2026.6.23). 기존 Python 서버에서 반복됐던 "기기 사용 불가" 오류가 상당 부분 해결됐고, Matter 1.5.1 규격 대응으로 카메라·도어벨 연동의 토대도 갖춰졌다.

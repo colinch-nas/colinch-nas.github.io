@@ -8,8 +8,6 @@ comments: true
 share: true
 ---
 
-# TerraMaster F4-425 Pro TOS 7 초기 설정 — AI 내장 NAS, 실제로 써보니
-
 ![TerraMaster F4-425 Pro NAS 서버 하드웨어](https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800&q=80)
 
 TerraMaster F4-425 Pro에 TOS 7을 올리면 Intel N350 8코어에 듀얼 5GbE, 그리고 AI 기능 OpenClaw까지 한 번에 쓸 수 있다. 같은 가격대 Synology 대비 하드웨어 스펙이 눈에 띄게 좋아서 설정해봤는데, 소프트웨어 쪽에서 걸리는 부분이 몇 가지 있었다.

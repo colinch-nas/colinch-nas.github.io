@@ -8,8 +8,6 @@ comments: true
 share: true
 ---
 
-# Synology NAS Docker 설치 — Container Manager로 컨테이너 운영하기
-
 ![Synology NAS Docker 컨테이너 운영](https://images.unsplash.com/photo-1605745341112-85968b19335b?w=800&q=80)
 
 Synology NAS에서 Docker를 쓸 수 있다는 게 처음엔 반신반의했다. NAS 박스에서 Nextcloud, Jellyfin, Vaultwarden을 돌린다는 게 가능한가 싶었는데 실제로 잘 된다. DSM 7.2부터는 Docker 앱 이름이 "Container Manager"로 바뀌었다. 설치와 기본 사용법을 정리한다.

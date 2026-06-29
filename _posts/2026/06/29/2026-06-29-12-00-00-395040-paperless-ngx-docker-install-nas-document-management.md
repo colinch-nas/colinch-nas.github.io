@@ -8,8 +8,6 @@ comments: true
 share: true
 ---
 
-# Paperless-ngx Docker 설치 — NAS에 문서 자동 분류 서버 구축하기
-
 ![NAS 홈서버에서 문서 디지털 관리하는 모습](https://images.unsplash.com/photo-1568667256531-6bc3ac0cdb32?w=800&q=80)
 
 공과금 고지서, 세금계산서, 계약서, 의료 기록. 이런 문서들을 폴더에 쌓아두다가 "그거 언제 받은 건데?" 하고 한참 뒤지는 경험, 한 번쯤 있을 거다. Paperless-ngx를 NAS에 올려두면 스캔하거나 PDF 저장하는 순간 OCR로 텍스트를 추출하고, 자동으로 태그·분류까지 달아준다. 검색창에 "2025 종합소득세" 치면 바로 나온다.
